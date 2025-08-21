@@ -9,7 +9,7 @@ class AppConstants {
   static const AppMode appMode = AppMode.release;
   static const LocalCachesTypeEnum cachesType = LocalCachesTypeEnum.all;
   static const String fontFamily = 'Poppins';
-  static const String baseUrl = 'YOUR_BASE_URL_HERE';
+  static const String baseUrl = 'http://localhost:8000';
   static const String webHostUrl = 'YOUR_WEB_URL_HERE';
   static const String configUri = '/api/v1/config';
   static const String bannerUri = '/api/v1/banners';

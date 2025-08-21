@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434714999478",
+    "project_id": "easysooq-14a30",
+    "storage_bucket": "easysooq-14a30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434714999478:android:21ec37796839b3dbfd0417",
+        "android_client_info": {
+          "package_name": "com.example.flutter_grocery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDvHFqs5VE-AMbIN-ChF8pli9OQET7IP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
